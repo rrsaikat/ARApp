@@ -1,4 +1,3 @@
-# ARApp
 Build your first Android AR app in Kotlin using ARCore and Sceneform
 =========
 Full tutorial is here:
